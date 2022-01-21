@@ -1,0 +1,57 @@
+*{
+	background: transparent;
+	padding: 20px;
+
+}
+form{
+	background: green;
+	padding: 30px;
+
+	margin-right: 75px;
+	width: 300px;
+	height: 300px;
+
+
+}
+input{
+	margin-top: 20px;
+	padding: 12px;
+}
+input[type="text"]{
+	background:#f2f2f2;
+	border: 1px;
+
+}
+input[type="password"]{
+	background: #f2f2f2;
+
+	border: 1px;
+}
+p{
+	background: white;
+}
+a{
+	background: white;
+
+}
+input[type="SUBMIT"]{
+	border: 1px;
+	width: 190PX;
+}
+input[type="submit"]:hover{
+	color: red;
+	text-decoration: underline;
+	cursor: pointer ;
+
+}
+a{
+	color: #ff9900;
+	text-decoration: none;
+	
+}
+body{
+	background-image: url("i.jpg");
+}
+footer{
+	position: fixed;
+}
